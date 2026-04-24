@@ -148,18 +148,11 @@ Result plots are in the `results/` folder, organized by analysis type:
 - `shap/` — Summary, bar, waterfall, dependence plots
 - `correlation/` — Feature correlation heatmap
 
----
-
-## 👥 Team
+## 👥 Author
 
 | Name | Role |
 |---|---|
-| Ayush | ML Models, Backend, Integration |
-| *(Add teammates)* | *(roles)* |
-
-*MIT Manipal — IT Branch — Digital Marketing Minor Project*
-
----
+| Ayush | ML Models, Backend, Frontend, Integration |
 
 ## 📄 License
 
